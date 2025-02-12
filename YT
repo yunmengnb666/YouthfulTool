@@ -1,0 +1,10 @@
+chmod +x 自动美化.py
+chmod +x 自动皮肤uexp.py
+chmod +x 自动地铁原皮.py
+chmod +x 自动搜索代码.py
+chmod +x 自动地铁枪配置.py
+chmod +x 偷配置.py
+chmod +x 上传文件.py
+chmod +x 云端美化
+chmod +x YT.sh
+./YT.sh
