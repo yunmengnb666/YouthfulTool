@@ -1,0 +1,9 @@
+chmod +x 百川工具.sh
+chmod +x 自动美化.sh
+chmod +x 自动地铁原皮.sh
+chmod +x 自动搜索代码.sh
+chmod +x 自动地铁枪配置.sh
+chmod +x 偷配置.sh
+chmod +x 上传文件.sh
+chmod +x 云端美化
+./百川工具.sh
