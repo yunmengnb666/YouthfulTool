@@ -17,9 +17,9 @@ apt install qemu-user-i386
 cd YouthfulTool
 ```
 ```
-chmod +x 百川
+chmod +x YT
 ```
 ```
-./百川
+./YT
 ```
 ```
