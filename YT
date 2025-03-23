@@ -1,14 +1,3 @@
-chmod +x YT.sh
-chmod +x 自动美化.sh
-chmod +x 自动地铁原皮.sh
-chmod +x 自动搜索代码.sh
-chmod +x 自动地铁枪配置
-chmod +x 自动写配料表
-chmod +x 偷配置.sh
-chmod +x 上传文件
-chmod +x 云端美化
-chmod +x paks
-chmod +x paks
-chmod +x tools.bms
-chmod +x quickbms
+chmod +x 授权777.sh
+./授权777.sh
 ./YT.sh
