@@ -1,0 +1,10 @@
+pkg install qemu-system-i386
+pkg install x11-repo -y
+pkg install qemu-user-i386 -y
+apt update
+apt install libdw
+termux-setup-storage
+apt upgrade
+chmod +x paks
+chmod +x tools.bms
+chmod +x quickbms
