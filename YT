@@ -1,3 +1,4 @@
 chmod +x 授权777.sh
 ./授权777.sh
+python 检查模块.py
 ./YT.sh

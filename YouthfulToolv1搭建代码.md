@@ -11,6 +11,9 @@
 apt upgrade
 ```
 ```
+pkg install python
+```
+```
 pkg install mplayer git curl libc++
 ```
 ```
