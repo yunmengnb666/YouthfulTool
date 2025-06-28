@@ -17,7 +17,7 @@ pkg install git
 pkg install python
 ```
 ```
-pkg install mplayer git curl libc++
+pkg install libexpat
 ```
 ```
 pip install colorama
