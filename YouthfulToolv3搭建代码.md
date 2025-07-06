@@ -20,6 +20,9 @@ pkg install python
 pkg install libexpat
 ```
 ```
+pkg install wget
+```
+```
 pip install colorama
 ```
 ```
